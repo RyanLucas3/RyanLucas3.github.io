@@ -25,6 +25,8 @@ Preprint, 2024
 **Certified Robust Neural Networks: Generalization and Corruption Resistance** [arXiv](https://arxiv.org/abs/2303.02251)  
 *Amine Bennouna, Ryan Lucas, Bart Van Parys*  
 International Conference on Machine Learning (2023)
+-- Runner-up of INFORMS 2023 Data Mining Best Paper Award (General Track)
+-- Winner of INFORMS 2023 Workshop on Data Science Best Student Paper
 
 Contact
 ======
