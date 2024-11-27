@@ -17,7 +17,7 @@ I am interested broadly in the use of modern optimization in ML applications. I 
 Papers
 ======
 
-**Preserving Deep Representations in One-Shot Pruning: A Hessian-Free Second-Order Optimization Framework** [arXiv](https://arxiv.org/abs/2305.15819)  
+**Preserving Deep Representations in One-Shot Pruning: A Hessian-Free Second-Order Optimization Framework** [arXiv](https://arxiv.org/abs/6029220)  
 *Ryan Lucas, Rahul Mazumder*  
 Preprint, 2024
 
