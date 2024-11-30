@@ -7,11 +7,11 @@ redirect_from:
  - /about.html
 ---
 
-I am a PhD Student at The Operations Research Center at MIT, supervised by Rahul Mazumder. I am interested in discrete and continuous optimization, and their applications in deep learning and high-dimensional statistics. 
+I am a second year PhD Student at The Operations Research Center at MIT, where I am fortunate to be supervised by Rahul Mazumder. 
 
 Research Interests
 ======
-I am interested broadly in the use of modern optimization in ML applications. I have worked thus far on designing more efficient and robust deep learning models via optimization.
+I am interested broadly in the use of modern optimization methods (first/second-order methods, mixed-integer programming, robust optimization) in deep learning and high-dimensional statistics. 
 
 Papers
 ======
