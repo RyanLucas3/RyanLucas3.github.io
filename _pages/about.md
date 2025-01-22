@@ -18,7 +18,7 @@ Papers
 
 **Preserving Deep Representations in One-Shot Pruning: A Hessian-Free Second-Order Optimization Framework** [arXiv](https://arxiv.org/abs/2411.18376)  
 *Ryan Lucas, Rahul Mazumder*  
-Preprint, 2024
+International Conference on Learning Representations (ICLR, 2025)
 
 ****
 
