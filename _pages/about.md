@@ -18,13 +18,13 @@ Papers
 
 **Preserving Deep Representations in One-Shot Pruning: A Hessian-Free Second-Order Optimization Framework** [arXiv](https://arxiv.org/abs/2411.18376)  
 *Ryan Lucas, Rahul Mazumder*  
-International Conference on Learning Representations (ICLR, 2025, Singapore)
+International Conference on Learning Representations (ICLR, 2025)
 
 ****
 
 **Certified Robust Neural Networks: Generalization and Corruption Resistance** [arXiv](https://arxiv.org/abs/2303.02251)  
 *Amine Bennouna, Ryan Lucas, Bart Van Parys*  
-International Conference on Machine Learning (ICML, 2023, Hawaii)<br>
+International Conference on Machine Learning (ICML, 2023)<br>
 -- Runner-up of INFORMS 2023 Data Mining Best Paper Award (General Track)<br>
 -- Winner of INFORMS 2023 Workshop on Data Science Best Student Paper
 
