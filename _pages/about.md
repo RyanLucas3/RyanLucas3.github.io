@@ -30,7 +30,7 @@ International Conference on Machine Learning (ICML, 2023)<br>
 
 ****
 
-**Holistic Robust Data-Driven Decisions** [arXiv](https://arxiv.org/abs/2207.09560)
+**Holistic Robust Data-Driven Decisions** [arXiv](https://arxiv.org/abs/2207.09560) \
 *Amine Bennouna, Bart Van Parys, Ryan Lucas*  
 
 Contact
