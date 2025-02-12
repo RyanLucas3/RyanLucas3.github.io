@@ -11,7 +11,7 @@ I am a second year PhD Student at The Operations Research Center at MIT, where I
 
 Research Interests
 ======
-I am interested broadly in the use of modern optimization methods (first/second-order methods, mixed-integer programming, robust optimization) in deep learning and high-dimensional statistics. 
+I am interested broadly in the use of mathematical optimization methods (first/second-order methods, mixed-integer programming, robust optimization) in deep learning and high-dimensional statistics. 
 
 Papers
 ======
