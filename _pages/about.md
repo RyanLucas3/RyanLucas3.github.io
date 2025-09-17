@@ -16,6 +16,16 @@ I am interested broadly in the use of mathematical optimization methods (first/s
 Papers
 ======
 
+**Reasoning Models Can Be Accurately Pruned via Chain-of-Thought Reconstruction** [arXiv](https://arxiv.org/abs/2509.12464)  
+*Ryan Lucas, Kayhan Behdin, Zhipeng Wang, Shao Tang, Qingquan Song, Rahul Mazumder*
+
+****
+
+**Pixie: Fast and Generalizable Supervised Learning of 3D Physics** [arXiv](https://arxiv.org/abs/2508.17437), [Website](https://pixie-3d.github.io/)  
+*Long Le, Ryan Lucas, Chen Wang, Chuhao Chen, Dinesh Jayaraman, Eric Eaton, Lingjie Liu*
+
+****
+
 **Preserving Deep Representations in One-Shot Pruning: A Hessian-Free Second-Order Optimization Framework** [arXiv](https://arxiv.org/abs/2411.18376)  
 *Ryan Lucas, Rahul Mazumder*  
 International Conference on Learning Representations (ICLR, 2025)
