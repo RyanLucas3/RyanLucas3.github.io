@@ -18,6 +18,7 @@ Papers
 
 **Reasoning Models Can Be Accurately Pruned via Chain-of-Thought Reconstruction** [arXiv](https://arxiv.org/abs/2509.12464)  
 *Ryan Lucas, Kayhan Behdin, Zhipeng Wang, Shao Tang, Qingquan Song, Rahul Mazumder*
+NeuRIPS 2025, First Workshop on Efficient Reasoning
 
 ****
 
