@@ -21,6 +21,7 @@ Papers
 
 Workshop paper at NeuRIPS 2025, First Workshop on Efficient Reasoning<br>
 Full conference paper at International Conference on Learning Representations (ICLR, 2026)
+
 ****
 
 **Pixie: Fast and Generalizable Supervised Learning of 3D Physics** [arXiv](https://arxiv.org/abs/2508.17437), [Website](https://pixie-3d.github.io/)  
