@@ -1,4 +1,4 @@
----
+**---
 permalink: /
 title: "About Me"
 author_profile: true
@@ -16,8 +16,13 @@ I am interested broadly in the use of mathematical optimization methods (first/s
 Papers
 ======
 
+**A GPU-accelerated Nonlinear Branch-and-Bound Framework for Sparse Linear Models** [arXiv](https://arxiv.org/abs/2602.04551)  
+*Xiang Meng, Ryan Lucas, Rahul Mazumder*
+
+****
+
 **Reasoning Models Can Be Accurately Pruned via Chain-of-Thought Reconstruction** [arXiv](https://arxiv.org/abs/2509.12464)  
-*Ryan Lucas, Kayhan Behdin, Zhipeng Wang, Shao Tang, Qingquan Song, Rahul Mazumder*
+*Ryan Lucas, Kayhan Behdin, Zhipeng Wang, Shao Tang, Qingquan Song, Rahul Mazumder*  
 Workshop paper at NeuRIPS 2025, First Workshop on Efficient Reasoning<br>
 Full conference paper at International Conference on Learning Representations (ICLR, 2026)
 
