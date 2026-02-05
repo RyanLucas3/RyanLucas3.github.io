@@ -1,11 +1,4 @@
-**---
-permalink: /
-title: "About Me"
-author_profile: true
-redirect_from: 
- - /about/
- - /about.html
----
+--- permalink: / title: "About Me" author_profile: true redirect_from: - /about/ - /about.html ---
 
 I am a third year PhD Student at The Operations Research Center at MIT, where I am fortunate to be advised by Rahul Mazumder. 
 
