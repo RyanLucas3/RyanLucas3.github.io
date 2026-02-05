@@ -1,4 +1,11 @@
---- permalink: / title: "About Me" author_profile: true redirect_from: - /about/ - /about.html ---
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+ - /about/
+ - /about.html
+---
 
 I am a third year PhD Student at The Operations Research Center at MIT, where I am fortunate to be advised by Rahul Mazumder. 
 
@@ -12,12 +19,10 @@ Papers
 **A GPU-accelerated Nonlinear Branch-and-Bound Framework for Sparse Linear Models** [arXiv](https://arxiv.org/abs/2602.04551)  
 *Xiang Meng, Ryan Lucas, Rahul Mazumder*
 
-****
-
 **Reasoning Models Can Be Accurately Pruned via Chain-of-Thought Reconstruction** [arXiv](https://arxiv.org/abs/2509.12464)  
-*Ryan Lucas, Kayhan Behdin, Zhipeng Wang, Shao Tang, Qingquan Song, Rahul Mazumder*  
+*Ryan Lucas, Kayhan Behdin, Zhipeng Wang, Shao Tang, Qingquan Song, Rahul Mazumder*
 Workshop paper at NeuRIPS 2025, First Workshop on Efficient Reasoning<br>
-Conference paper at International Conference on Learning Representations (ICLR, 2026)
+Full conference paper at International Conference on Learning Representations (ICLR, 2026)
 
 ****
 
@@ -28,13 +33,13 @@ Conference paper at International Conference on Learning Representations (ICLR, 
 
 **Preserving Deep Representations in One-Shot Pruning: A Hessian-Free Second-Order Optimization Framework** [arXiv](https://arxiv.org/abs/2411.18376)  
 *Ryan Lucas, Rahul Mazumder*  
-Conference paper at International Conference on Learning Representations (ICLR, 2025)
+International Conference on Learning Representations (ICLR, 2025)
 
 ****
 
 **Certified Robust Neural Networks: Generalization and Corruption Resistance** [arXiv](https://arxiv.org/abs/2303.02251)  
 *Amine Bennouna, Ryan Lucas, Bart Van Parys*  
-Conference paper at International Conference on Machine Learning (ICML, 2023)<br>
+International Conference on Machine Learning (ICML, 2023)<br>
 -- Runner-up of INFORMS 2023 Data Mining Best Paper Award (General Track)<br>
 -- Winner of INFORMS 2023 Workshop on Data Science Best Student Paper
 
