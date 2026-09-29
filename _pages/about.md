@@ -16,14 +16,17 @@ I am interested broadly in the use of mathematical optimization methods (first/s
 Papers
 ======
 
-**ADMM-Q: An Improved Hessian-based Weight Quantizer for Post-Training Quantization of Large Language Models**  
+**ADMM-Q: An Improved Hessian-based Weight Quantizer for Post-Training Quantization of Large Language Models** [arXiv](https://arxiv.org/abs/2605.11222) 
 *Ryan Lucas, Mehdi Makni, Xiang Meng, Adam Deng, Rahul Mazumder*  
 Conference on Language Modeling (COLM, 2026)
 
 ****
 
+**ThinQuant: Scalable Rotation Learning for Weight and Activation Quantization of LLMs**  
+*Mehdi Makni, Ryan Lucas, Rahul Mazumder*  
+
 **A GPU-accelerated Nonlinear Branch-and-Bound Framework for Sparse Linear Models** [arXiv](https://arxiv.org/abs/2602.04551)  
-*Xiang Meng, Ryan Lucas, Rahul Mazumder*
+*Ryan Lucas, Xiang Meng, Rahul Mazumder*
 
 **Reasoning Models Can Be Accurately Pruned via Chain-of-Thought Reconstruction** [arXiv](https://arxiv.org/abs/2509.12464)  
 *Ryan Lucas, Kayhan Behdin, Zhipeng Wang, Shao Tang, Qingquan Song, Rahul Mazumder*
