@@ -16,7 +16,7 @@ I am interested broadly in the use of mathematical optimization methods (first/s
 Papers
 ======
 
-**ADMM-Q: An Improved Hessian-based Weight Quantizer for Post-Training Quantization of Large Language Models** [arXiv](https://arxiv.org/abs/2605.11222) 
+**ADMM-Q: An Improved Hessian-based Weight Quantizer for Post-Training Quantization of Large Language Models** [arXiv](https://arxiv.org/abs/2605.11222) \
 *Ryan Lucas, Mehdi Makni, Xiang Meng, Adam Deng, Rahul Mazumder*  
 Conference on Language Modeling (COLM, 2026)
 
