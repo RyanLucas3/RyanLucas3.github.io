@@ -20,6 +20,10 @@ Papers
 *Ryan Lucas, Mehdi Makni, Xiang Meng, Adam Deng, Rahul Mazumder*  
 Conference on Language Modeling (COLM, 2026)
 
+**ThinQuant: Scalable Rotation Learning for Weight and Activation Quantization of LLMs** [arXiv](https://arxiv.org/abs/2609.36120)\
+*Mehdi Makni, Ryan Lucas, Rahul Mazumder*  
+
+
 **A GPU-accelerated Nonlinear Branch-and-Bound Framework for Sparse Linear Models** [arXiv](https://arxiv.org/abs/2602.04551)  
 *Ryan Lucas, Xiang Meng, Rahul Mazumder*
 
