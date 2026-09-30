@@ -34,7 +34,6 @@ a:focus-visible, button:focus-visible { outline: 2px solid var(--site-accent); o
 
 /* Keep the familiar profile + biography columns, with more balanced proportions. */
 .academic-home #main { max-width: 1120px; margin-top: 3em; }
-.academic-home .page__content > p:first-child { font-size: 1.1em; line-height: 1.8; }
 .academic-home .page__content p:has(> strong:first-child) {
   border-bottom: 1px solid var(--site-rule);
   padding-bottom: 1.5em;
