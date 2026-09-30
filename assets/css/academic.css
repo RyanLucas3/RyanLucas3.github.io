@@ -14,14 +14,14 @@ body { background: var(--site-paper); color: var(--site-ink); }
 .page__title {
   margin-bottom: .7em;
 }
-.page__content { font-size: 16px; line-height: 1.8; }
+.page__content { font-size: 16px; line-height: 1.65; }
 .page__content h1, .page__content h2 {
-  margin-top: 2em;
-  margin-bottom: .9em;
-  padding-bottom: .45em;
+  margin-top: 1.25em;
+  margin-bottom: .55em;
+  padding-bottom: 0;
   border-bottom-color: var(--site-rule);
 }
-.page__content p { margin-bottom: 1.5em; }
+.page__content p { margin-bottom: 1.25em; }
 .page__content a { color: var(--site-accent); text-decoration: none; }
 .page__content a:hover { text-decoration: underline; text-underline-offset: 3px; }
 a:focus-visible, button:focus-visible { outline: 2px solid var(--site-accent); outline-offset: 4px; }
